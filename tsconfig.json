@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "target": "es6",
+        "strict": true,
+        "types": ["node"],
+        "allowSyntheticDefaultImports": true,
+        "allowJs": true,
+        "downlevelIteration": true,
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "module": "commonjs",
+        "lib": ["es2015"]
+    }
+}
